@@ -13,7 +13,7 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   identity:
     # Site name - shown in navbar, footer, copyright, and browser title by default
-    name: "Beacon"
+    name: "ENAS 3"
     # Legal entity for copyright notices (defaults to name if not set)
     organization: ""
     # Schema.org type for structured data
@@ -121,7 +121,7 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   footer:
     # Footer style variant
-    style: columns # minimal | columns | centered
+    style: minimal # minimal | columns | centered
     show_logo: true
     show_title: true
     show_tagline: true
@@ -266,7 +266,7 @@ hugoblox:
   locale:
     date_format: "Jan 2, 2006" # Go time format
     time_format: "3:04 PM"
-    address_format: en-us
+    address_format: pt-pt
 
   # ────────────────────────────────────────────────────────────────────────────
   # SECURITY
