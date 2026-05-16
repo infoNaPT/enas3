@@ -5,7 +5,7 @@
 
 # Website name (set in params.yaml under hugoblox.branding.name)
 title: 'ENAS 3'
-baseURL: 'https://enas3.na-pt.org/' # Website URL
+baseURL: 'https://enas2026.na-pt.org/' # Website URL
 
 ############################
 ## PAGE OPTIONS
