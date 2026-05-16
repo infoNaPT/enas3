@@ -14,7 +14,7 @@ sections:
     design:
       columns: "1"
       background:
-        color: "#323232"
+        color: "#1476b9"
       spacing:
         padding: [0, 0, 0, 0]
         margin: [0, 0, 0, 0]
