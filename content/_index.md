@@ -21,8 +21,8 @@ sections:
 
   - block: markdown
     content:
-      title: Porto, Portugal
-      subtitle: Ajuda para o registo abaixo do formulário
+      title: 
+      subtitle: 
       text: >
         As instruções são apresentadas durante o preenchimento do teu registo  
         <pretix-widget event="https://registos.na-pt.org/enas3/" list-type="list" single-item-select="button"></pretix-widget><noscript><div class="pretix-widget"><div class="pretix-widget-info-message">JavaScript is disabled in your browser. To access our ticket shop without JavaScript, please <a target="_blank" rel="noopener" href="https://registos.na-pt.org/enas3/">click here</a>.</div></div></noscript>
